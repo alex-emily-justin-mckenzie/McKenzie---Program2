@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  paintHouse1.cpp
 //  Program2
 //
 //  Created by McKenzie Humann on 9/4/19.
